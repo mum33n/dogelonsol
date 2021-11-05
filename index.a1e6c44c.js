@@ -1,0 +1,2 @@
+$(document).ready((function(){(new WOW).init(),setTimeout((()=>{$("#load").fadeOut(),$("body").removeClass("overflow-hidden")}),3e3);const e=document.getElementById("myChart");new Chart(e,{type:"doughnut",data:{labels:["Burn :10%","Airdrop: 30%","Promotion and Marketing: 20%","Team: 10%","Liquidity: 30%"],datasets:[{label:"My First Dataset",data:[10,30,20,10,30],backgroundColor:["rgb(255, 99, 132)","rgb(54, 162, 235)","rgb(255, 205, 86)","rgb(255, 20, 46)","rgb(75, 205, 86)","rgb(65, 25, 106)"],hoverOffset:6}]}})}));
+//# sourceMappingURL=index.a1e6c44c.js.map
